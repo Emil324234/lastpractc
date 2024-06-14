@@ -1,0 +1,3 @@
+﻿  lastpractc.cpp
+E:\OneDrive\Рабочий стол\да\lastpractc\lastpractc\lastpractc.cpp(12,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lastpractc.vcxproj -> E:\OneDrive\Рабочий стол\да\lastpractc\x64\Debug\lastpractc.exe
